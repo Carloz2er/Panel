@@ -23,8 +23,8 @@ module.exports = {
   auth: {
    strategies: {
     discord: {
-      clientId: '864684172512591872',
-      clientSecret: 'vLAdaIsFjrUyjo6MiYN2_uMs-z_jee7K',
+      clientId: '782083990072852521',
+      clientSecret: '5nONbaKTkddSBfXVU8vs47X4bpUy1fZ6',
       codeChallengeMethod: '',
       grantType: 'authorization_code',
       scope: ['email', 'identify']
